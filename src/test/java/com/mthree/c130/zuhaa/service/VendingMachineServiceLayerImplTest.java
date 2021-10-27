@@ -1,13 +1,9 @@
-package zuhaa.service;
+package com.mthree.c130.zuhaa.service;
 
 import com.mthree.c130.zuhaa.dao.VendingMachineAuditDao;
 import com.mthree.c130.zuhaa.dao.VendingMachineDao;
 import com.mthree.c130.zuhaa.dao.VendingMachinePersistenceException;
 import com.mthree.c130.zuhaa.dto.Item;
-import com.mthree.c130.zuhaa.service.InsufficientFundsException;
-import com.mthree.c130.zuhaa.service.NoItemInventoryException;
-import com.mthree.c130.zuhaa.service.VendingMachineServiceLayer;
-import com.mthree.c130.zuhaa.service.VendingMachineServiceLayerImpl;
 import org.junit.jupiter.api.Test;
 
 import java.math.BigDecimal;

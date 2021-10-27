@@ -1,4 +1,4 @@
-package zuhaa.service;
+package com.mthree.c130.zuhaa.service;
 
 import com.mthree.c130.zuhaa.dao.VendingMachineAuditDao;
 import com.mthree.c130.zuhaa.dao.VendingMachinePersistenceException;

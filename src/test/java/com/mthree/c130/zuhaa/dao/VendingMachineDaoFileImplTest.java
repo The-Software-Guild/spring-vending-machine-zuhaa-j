@@ -1,4 +1,4 @@
-package zuhaa.dao;
+package com.mthree.c130.zuhaa.dao;
 
 import com.mthree.c130.zuhaa.dao.Change;
 import com.mthree.c130.zuhaa.dao.VendingMachineDao;
